@@ -1,5 +1,5 @@
 ## API Documentation
-<details>
+
  <summary><b><code>RESOURCE</code>  <code>{base_url}/api/category</code></b></summary>
 
  ###### Request body (Only for POST/PUT):
@@ -99,4 +99,4 @@
 	"data": Array
 }
 ```
-</details>
+
